@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Oh My, AI!
+title: Quotes
 description: >- # this means to ignore newlines until "baseurl:"
   Daily generated inspiration
-baseurl: /qoutes
+baseurl: "/qoutes"
 url: "https://healxyz.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: healxyz
-github_username:  luvnft
+github_username: luvnft
+repository: luvnft/inspiration-ai
 
 # Build settings
 plugins:
